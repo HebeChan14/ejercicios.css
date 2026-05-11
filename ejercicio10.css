@@ -1,0 +1,14 @@
+.contenedor {
+
+    display: flex;
+}
+
+.tercero {
+
+    order: -1;
+}
+
+.primero {
+    
+    order: 1;
+}
