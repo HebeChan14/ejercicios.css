@@ -1,0 +1,15 @@
+.contenedor {
+
+    display: flex;
+
+    width: 600px;
+
+    flex-wrap: wrap;
+
+}
+
+.caja {
+
+    width: 150px;
+    
+}
