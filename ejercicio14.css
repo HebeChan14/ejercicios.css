@@ -1,0 +1,13 @@
+.tarjeta {
+
+    display: flex;
+
+    flex-direction: column;
+
+    height: 300px;
+}
+
+button {
+    
+    margin-top: auto;
+}
