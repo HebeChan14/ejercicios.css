@@ -1,0 +1,22 @@
+
+.formulario{
+    
+    width:500px;
+}
+
+
+
+.campo{
+
+    display:flex;
+    
+}
+label{
+
+    flex:0 0 120px;
+
+}
+input{
+
+   flex:1;
+}
