@@ -1,0 +1,32 @@
+.pagina{
+   display:flex;
+   flex-direction:column;
+   min-height:100vh;
+}
+
+.cuerpo{
+   display:flex;
+   flex:1;
+}
+
+.izq{
+   flex:0 0 200px;
+}
+
+main{
+   flex:1;
+}
+
+.der{
+   flex:0 0 200px;
+}
+
+header,
+footer,
+.izq,
+.der,
+main{
+
+   border:1px solid black;
+
+}

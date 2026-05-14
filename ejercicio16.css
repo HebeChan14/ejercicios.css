@@ -10,7 +10,7 @@
 
    flex:1 1 calc(25% - 10px);
    height:100px;
-   border:1px solid black;
+   border:1px solid black; /*le doy altura y pongo bordes para ver como quedan las cajas visualmente*/
    min-width:200px;
 
 }
